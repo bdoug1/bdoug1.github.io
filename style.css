@@ -1,0 +1,25 @@
+html {
+    background: #629bb9;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    padding: 2%;
+}
+
+.myClass {
+    /*command e on class in HTML doc - INLINE EDIT CLASS*/
+    color: brown;
+    font-size: 120%;
+}
+
+a {
+    /* a = linktag as in a href */
+    text-decoration: none; 
+}
+
+/* command / = comment line */
